@@ -1,7 +1,7 @@
 {
     "date": ["SUMMER", "2018.08"],
-    "hardware": ["SOLID_PINE_WOOD", "CNC MILLING", "PLASTER", "GOLD LEAF"],
-    "software": ["AUTODESK MAYA + RIGGING", "ARTCAM", "CIMCO EDIT"],
-    "overview": "",
+    "hardware": ["SOLID_PINE_WOOD", "CNC_MILLING", "PLASTER", "GOLD_LEAF"],
+    "software": ["AUTODESK_MAYA_+_RIGGING", "ARTCAM" ,"CIMCO_EDIT"],
+    "overview": " проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)",
     "making": ""
 }
