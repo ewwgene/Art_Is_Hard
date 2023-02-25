@@ -1,6 +1,6 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
-## [Art_Is_Hard. _SUMMER-2018.08._](https://ewwgene.github.io/Art_Is_Hard)
+## [/Art_Is_Hard. _SUMMER-2018.08._](https://ewwgene.github.io/Art_Is_Hard)
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Art_Is_Hard/100.jpg)
 <a id="103"></a> ![103.jpg](https://ewwgene.github.io/Art_Is_Hard/103.jpg)
 <a id="105"></a> ![105.jpg](https://ewwgene.github.io/Art_Is_Hard/105.jpg)
