@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### Art_Is_Hard. — _DESIGN SERIES._
+# [ewwgene.github.io /](https://ewwgene.github.io/) Art_Is_Hard
+
 [![Art_Is_Hard](/100.jpg)](https://ewwgene.github.io/Art_Is_Hard/Carousel)<a id="103" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#103"><img src="https://ewwgene.github.io/Art_Is_Hard/103.jpg" height="66"></a> <a id="105" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#105"><img src="https://ewwgene.github.io/Art_Is_Hard/105.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#111"><img src="https://ewwgene.github.io/Art_Is_Hard/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#112"><img src="https://ewwgene.github.io/Art_Is_Hard/112.jpg" height="66"></a> <a id="114" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#114"><img src="https://ewwgene.github.io/Art_Is_Hard/114.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#115"><img src="https://ewwgene.github.io/Art_Is_Hard/115.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#117"><img src="https://ewwgene.github.io/Art_Is_Hard/117.jpg" height="66"></a> <a id="text">&#160;</a>
 
 [_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
@@ -17,3 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="301" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#301"><img src="https://ewwgene.github.io/Art_Is_Hard/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#303"><img src="https://ewwgene.github.io/Art_Is_Hard/303.jpg" height="66"></a> 
 
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
+
+### [ABOUT/](https://ewwgene.github.io/) 
