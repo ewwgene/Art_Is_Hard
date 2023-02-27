@@ -1,5 +1,5 @@
 
-# [ewwgene.github.io /](https://ewwgene.github.io/) [Art_Is_Hard /](https://ewwgene.github.io/Art_Is_Hard)
+# [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) [Art_Is_Hard /](https://ewwgene.github.io/Art_Is_Hard)
 
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Art_Is_Hard/100.jpg)
 <a id="103"></a> ![103.jpg](https://ewwgene.github.io/Art_Is_Hard/103.jpg)
@@ -24,5 +24,3 @@
 <a id="301"></a> ![301.jpg](https://ewwgene.github.io/Art_Is_Hard/301.jpg)
 <a id="303"></a> ![303.jpg](https://ewwgene.github.io/Art_Is_Hard/303.jpg)
 
-
-### [ABOUT/](https://ewwgene.github.io/) 
