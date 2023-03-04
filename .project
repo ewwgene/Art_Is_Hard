@@ -5,5 +5,5 @@
     "hardware": ["CNC_MILLING", "3D_SCANNING"],
     "software": ["MAYA", "ARTCAM", "RHINOCEROS_3D", "CIMCO_EDIT"],
     "overview": "Багетная рама для картины и зеркала.",
-    "making": "Подготовка _`RIGGING`_ _3D_-модели персонажа в _`MAYA`_. Рама из массива дерева, покрытие поталью. Размеры _1200mm&times;1000mm_"
+    "making": "Подготовка _`RIGGING`_ _3D_-модели персонажа в _`MAYA`_. Рама из массива дерева, покрытие поталью.<br> Размеры _1200mm&times;1000mm_"
 }
