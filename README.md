@@ -12,7 +12,7 @@ _`SOLID_PINE_WOOD`_ _`PLASTER`_ _`GOLD_LEAF`_
 
 _`MAYA`_ _`ARTCAM`_ _`RHINOCEROS_3D`_ _`CIMCO_EDIT`_  _**`CNC_MILLING`**_ _**`3D_SCANNING`**_ 
 
-Подготовка _`RIGGING`_ _3D_-модели персонажа в _`MAYA`_. Размеры _1200mm&times;1000mm_
+Подготовка _`RIGGING`_ _3D_-модели персонажа в _`MAYA`_. Рама из массива дерева, покрытие поталью. Размеры _1200mm&times;1000mm_
 
 <a id="301" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#301"><img src="https://ewwgene.github.io/Art_Is_Hard/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Art_Is_Hard/Carousel/#303"><img src="https://ewwgene.github.io/Art_Is_Hard/303.jpg" height="66"></a> 
 
