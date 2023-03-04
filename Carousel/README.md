@@ -1,4 +1,4 @@
-
+﻿
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) [Art_Is_Hard /](https://ewwgene.github.io/Art_Is_Hard)
 
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Art_Is_Hard/100.jpg)
