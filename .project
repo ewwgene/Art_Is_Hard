@@ -5,5 +5,5 @@
     "hardware": ["CNC_MILLING", "3D_SCANNING"],
     "software": ["MAYA", "ARTCAM", "RHINOCEROS_3D", "CIMCO_EDIT"],
     "overview": "Багетная рама для картины и зеркала.",
-    "making": "Размеры _1200mm&times;1000mm_"
+    "making": "_`RIGGING`_ подготовка 3D-модели персонажа в AUTODESK _`MAYA`_. Размеры _1200mm&times;1000mm_"
 }
